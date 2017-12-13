@@ -1,0 +1,13 @@
+{
+    "name": "dexeldesigns/message",
+    "description": "This is my first package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arul Murugan",
+            "email": "arulmurugan198@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
